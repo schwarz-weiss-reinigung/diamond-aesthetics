@@ -6,9 +6,14 @@ header('Content-Type: text/html; charset=utf-8');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Entdecken Sie die führende Schönheitsklinik in Düsseldorf. Expertenwissen über ästhetische Nasenkorrekturen, Brustvergrößerungen und modernste Behandlungen.">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Robots & Indexing Tags -->
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow">
+    <meta name="description" content="Entdecken Sie die führende Schönheitsklinik in Düsseldorf. Expertenwissen über ästhetische Nasenkorrekturen, Brustvergrößerungen und modernste Behandlungen">
     <meta name="keywords" content="Schönheitsklinik Düsseldorf, Nasenoperation Düsseldorf, Diamond Aesthetics, ästhetische Chirurgie, plastische Chirurgie Düsseldorf, Rhinoplastik, Brustvergrößerung">
-    <meta name="robots" content="index, follow">
     <meta name="author" content="Diamond Aesthetics Medical Review">
     <title>Top Schönheitsklinik Düsseldorf: Experten-Guide 2024</title>
     
